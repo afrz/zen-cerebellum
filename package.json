@@ -1,0 +1,11 @@
+{
+  "name": "zen-cerebellum",
+  "version": "1.1.0",
+  "description": "Shared toolbox and utilities for ZEN web SPA",
+  "main": "index.js",
+  "author": "AFRZ",
+  "license": "SEE LICENSE IN LICENSE",
+  "peerDependencies": {
+    "jquery": ">=2.2.4"
+  }
+}
