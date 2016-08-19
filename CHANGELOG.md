@@ -1,5 +1,5 @@
 
-### 1.2.1
+### 1.2.0
 **2016.08.19**
 
 * [NEW] Web API action creator generator
