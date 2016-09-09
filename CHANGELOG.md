@@ -1,4 +1,9 @@
 
+### 1.3.0
+**2016.09.09**
+
+* [NEW] Allow to customize paginator behavior
+
 ### 1.2.0
 **2016.08.19**
 
