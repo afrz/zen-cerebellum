@@ -1,4 +1,9 @@
 
+### 1.3.1
+**2016.09.26**
+
+* [FIX] Reset correctly page number to 1 when new search results.
+
 ### 1.3.0
 **2016.09.09**
 
