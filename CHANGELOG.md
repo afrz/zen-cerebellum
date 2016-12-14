@@ -1,8 +1,12 @@
+### 1.3.2
+**2016.12.14**
+
+* [FIX] CRUD : Creation now merge initial new object with response one
 
 ### 1.3.1
 **2016.09.26**
 
-* [FIX] Reset correctly page number to 1 when new search results.
+* [FIX] Reset correctly page number to 1 when new search results
 
 ### 1.3.0
 **2016.09.09**
