@@ -1,3 +1,8 @@
+### 1.3.3
+**2016.12.14**
+
+* [FIX] CRUD : Update action alter state only if necessary
+
 ### 1.3.2
 **2016.12.14**
 
